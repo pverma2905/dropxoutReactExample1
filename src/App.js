@@ -1,11 +1,16 @@
 import './App.css';
 import Eight from './Eight';
+import Eleven from './Eleven';
 import Five from './Five';
 import Four from './Four';
+import Nine from './Nine';
 import One from './One';
 import Seven from './Seven';
 import Sixx from './Sixx';
+import Ten from './Ten';
+import Thirteen from './Thirteen';
 import Three from './Three';
+import Twelve from './Twelve';
 import Two from './Two';
 
 
@@ -19,7 +24,12 @@ function App() {
       {/* <Five/> */}
       {/* <Sixx/> */}
       {/* <Seven/> */}
-      <Eight/>
+      {/* <Eight/> */}
+      {/* <Nine/> */}
+      {/* <Ten/> */}
+      {/* <Eleven/> */}
+      {/* <Twelve/> */}
+      {<Thirteen/>}
     </div>
   );
 }
